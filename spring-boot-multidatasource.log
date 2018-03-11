@@ -1,0 +1,4 @@
+2018-03-11 10:42:51.690  INFO 7236 --- [main] com.bswen.multids.MyApp                  : Starting MyApp on DESKTOP-UCD5TPH with PID 7236 (C:\Dev\STSPrjs\spring-boot-multiple-datasource\target\classes started by Jose in C:\Dev\STSPrjs\spring-boot-multiple-datasource)
+2018-03-11 10:42:51.690 DEBUG 7236 --- [main] com.bswen.multids.MyApp                  : Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2018-03-11 10:42:51.690  INFO 7236 --- [main] com.bswen.multids.MyApp                  : No active profile set, falling back to default profiles: default
+2018-03-11 10:42:53.144  INFO 7236 --- [main] com.bswen.multids.MyApp                  : Started MyApp in 1.672 seconds (JVM running for 2.279)
